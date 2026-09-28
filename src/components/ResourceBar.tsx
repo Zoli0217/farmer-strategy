@@ -7,6 +7,7 @@ const ResourceBar = () => {
     const food = useResourceStore((state) => state.food)
   return (
     <div>
+        
       <div>{gold}🪙</div>
       <div>{wood}🪵</div>
       <div>{stone}🪨</div>

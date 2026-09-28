@@ -27,7 +27,8 @@ function addGrass(map: TileType[][]):TileType[][]{
         if(x> 0 && Math.random() < 0.5){ map[x-1][y].ground = "grass"}
         if(x < map.length-1 && Math.random() < 0.5){map [x+1][y].ground = "grass"}
 
-        if(y > 0 && Math.random() < 0.5){}
+        if(y > 0 && Math.random() < 0.5){map[x][y-1].ground = "grass"}
+        if(y < map[0].length-1 && Math.random() < 0.5){map[x][y+1].ground = "grass"}
     })
 
     return map

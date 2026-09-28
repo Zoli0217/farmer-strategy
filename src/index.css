@@ -9,7 +9,6 @@
   display: grid;
   >div{
     aspect-ratio: 1 / 1;
-    border: 1px solid black;
   }
 }
 
@@ -19,4 +18,12 @@
 
 .grass{
   background: rgb(5, 180, 26);
+}
+
+.stone{
+  background: rgb(100, 100, 100);
+}
+
+.sand{
+  background: rgb(255, 255, 0);
 }
