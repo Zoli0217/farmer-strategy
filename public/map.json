@@ -1,0 +1,4564 @@
+{
+    "map": [
+        [
+            {
+                "ground": "water",
+                "resource": null,
+                "building": null
+            },
+            {
+                "ground": "water",
+                "resource": null,
+                "building": null
+            },
+            {
+                "ground": "water",
+                "resource": null,
+                "building": null
+            },
+            {
+                "ground": "water",
+                "resource": null,
+                "building": null
+            },
+            {
+                "ground": "water",
+                "resource": null,
+                "building": null
+            },
+            {
+                "ground": "water",
+                "resource": null,
+                "building": null
+            },
+            {
+                "ground": "water",
+                "resource": null,
+                "building": null
+            },
+            {
+                "ground": "water",
+                "resource": null,
+                "building": null
+            },
+            {
+                "ground": "water",
+                "resource": null,
+                "building": null
+            },
+            {
+                "ground": "water",
+                "resource": null,
+                "building": null
+            },
+            {
+                "ground": "water",
+                "resource": null,
+                "building": null
+            },
+            {
+                "ground": "water",
+                "resource": null,
+                "building": null
+            },
+            {
+                "ground": "water",
+                "resource": null,
+                "building": null
+            },
+            {
+                "ground": "water",
+                "resource": null,
+                "building": null
+            },
+            {
+                "ground": "water",
+                "resource": null,
+                "building": null
+            },
+            {
+                "ground": "water",
+                "resource": null,
+                "building": null
+            },
+            {
+                "ground": "water",
+                "resource": null,
+                "building": null
+            },
+            {
+                "ground": "water",
+                "resource": null,
+                "building": null
+            },
+            {
+                "ground": "water",
+                "resource": null,
+                "building": null
+            },
+            {
+                "ground": "water",
+                "resource": null,
+                "building": null
+            },
+            {
+                "ground": "water",
+                "resource": null,
+                "building": null
+            },
+            {
+                "ground": "sand",
+                "resource": null,
+                "building": null
+            },
+            {
+                "ground": "grass",
+                "resource": null,
+                "building": null
+            },
+            {
+                "ground": "grass",
+                "resource": null,
+                "building": null
+            },
+            {
+                "ground": "grass",
+                "resource": null,
+                "building": null
+            },
+            {
+                "ground": "grass",
+                "resource": null,
+                "building": null
+            },
+            {
+                "ground": "grass",
+                "resource": null,
+                "building": null
+            },
+            {
+                "ground": "grass",
+                "resource": null,
+                "building": null
+            },
+            {
+                "ground": "grass",
+                "resource": null,
+                "building": null
+            },
+            {
+                "ground": "grass",
+                "resource": null,
+                "building": null
+            }
+        ],
+        [
+            {
+                "ground": "water",
+                "resource": null,
+                "building": null
+            },
+            {
+                "ground": "water",
+                "resource": null,
+                "building": null
+            },
+            {
+                "ground": "water",
+                "resource": null,
+                "building": null
+            },
+            {
+                "ground": "water",
+                "resource": null,
+                "building": null
+            },
+            {
+                "ground": "water",
+                "resource": null,
+                "building": null
+            },
+            {
+                "ground": "water",
+                "resource": null,
+                "building": null
+            },
+            {
+                "ground": "water",
+                "resource": null,
+                "building": null
+            },
+            {
+                "ground": "water",
+                "resource": null,
+                "building": null
+            },
+            {
+                "ground": "water",
+                "resource": null,
+                "building": null
+            },
+            {
+                "ground": "water",
+                "resource": null,
+                "building": null
+            },
+            {
+                "ground": "water",
+                "resource": null,
+                "building": null
+            },
+            {
+                "ground": "water",
+                "resource": null,
+                "building": null
+            },
+            {
+                "ground": "water",
+                "resource": null,
+                "building": null
+            },
+            {
+                "ground": "water",
+                "resource": null,
+                "building": null
+            },
+            {
+                "ground": "water",
+                "resource": null,
+                "building": null
+            },
+            {
+                "ground": "water",
+                "resource": null,
+                "building": null
+            },
+            {
+                "ground": "water",
+                "resource": null,
+                "building": null
+            },
+            {
+                "ground": "water",
+                "resource": null,
+                "building": null
+            },
+            {
+                "ground": "water",
+                "resource": null,
+                "building": null
+            },
+            {
+                "ground": "water",
+                "resource": null,
+                "building": null
+            },
+            {
+                "ground": "water",
+                "resource": null,
+                "building": null
+            },
+            {
+                "ground": "sand",
+                "resource": null,
+                "building": null
+            },
+            {
+                "ground": "grass",
+                "resource": null,
+                "building": null
+            },
+            {
+                "ground": "grass",
+                "resource": null,
+                "building": null
+            },
+            {
+                "ground": "grass",
+                "resource": null,
+                "building": null
+            },
+            {
+                "ground": "grass",
+                "resource": null,
+                "building": null
+            },
+            {
+                "ground": "grass",
+                "resource": null,
+                "building": null
+            },
+            {
+                "ground": "grass",
+                "resource": null,
+                "building": null
+            },
+            {
+                "ground": "grass",
+                "resource": null,
+                "building": null
+            },
+            {
+                "ground": "grass",
+                "resource": null,
+                "building": null
+            }
+        ],
+        [
+            {
+                "ground": "water",
+                "resource": null,
+                "building": null
+            },
+            {
+                "ground": "water",
+                "resource": null,
+                "building": null
+            },
+            {
+                "ground": "water",
+                "resource": null,
+                "building": null
+            },
+            {
+                "ground": "water",
+                "resource": null,
+                "building": null
+            },
+            {
+                "ground": "water",
+                "resource": null,
+                "building": null
+            },
+            {
+                "ground": "sand",
+                "resource": null,
+                "building": null
+            },
+            {
+                "ground": "sand",
+                "resource": null,
+                "building": null
+            },
+            {
+                "ground": "water",
+                "resource": null,
+                "building": null
+            },
+            {
+                "ground": "water",
+                "resource": null,
+                "building": null
+            },
+            {
+                "ground": "water",
+                "resource": null,
+                "building": null
+            },
+            {
+                "ground": "water",
+                "resource": null,
+                "building": null
+            },
+            {
+                "ground": "water",
+                "resource": null,
+                "building": null
+            },
+            {
+                "ground": "water",
+                "resource": null,
+                "building": null
+            },
+            {
+                "ground": "water",
+                "resource": null,
+                "building": null
+            },
+            {
+                "ground": "water",
+                "resource": null,
+                "building": null
+            },
+            {
+                "ground": "water",
+                "resource": null,
+                "building": null
+            },
+            {
+                "ground": "water",
+                "resource": null,
+                "building": null
+            },
+            {
+                "ground": "water",
+                "resource": null,
+                "building": null
+            },
+            {
+                "ground": "water",
+                "resource": null,
+                "building": null
+            },
+            {
+                "ground": "water",
+                "resource": null,
+                "building": null
+            },
+            {
+                "ground": "sand",
+                "resource": null,
+                "building": null
+            },
+            {
+                "ground": "sand",
+                "resource": null,
+                "building": null
+            },
+            {
+                "ground": "grass",
+                "resource": null,
+                "building": null
+            },
+            {
+                "ground": "grass",
+                "resource": null,
+                "building": null
+            },
+            {
+                "ground": "grass",
+                "resource": null,
+                "building": null
+            },
+            {
+                "ground": "grass",
+                "resource": null,
+                "building": null
+            },
+            {
+                "ground": "grass",
+                "resource": null,
+                "building": null
+            },
+            {
+                "ground": "grass",
+                "resource": null,
+                "building": null
+            },
+            {
+                "ground": "grass",
+                "resource": null,
+                "building": null
+            },
+            {
+                "ground": "grass",
+                "resource": null,
+                "building": null
+            }
+        ],
+        [
+            {
+                "ground": "water",
+                "resource": null,
+                "building": null
+            },
+            {
+                "ground": "sand",
+                "resource": null,
+                "building": null
+            },
+            {
+                "ground": "sand",
+                "resource": null,
+                "building": null
+            },
+            {
+                "ground": "sand",
+                "resource": null,
+                "building": null
+            },
+            {
+                "ground": "sand",
+                "resource": null,
+                "building": null
+            },
+            {
+                "ground": "sand",
+                "resource": null,
+                "building": null
+            },
+            {
+                "ground": "sand",
+                "resource": null,
+                "building": null
+            },
+            {
+                "ground": "water",
+                "resource": null,
+                "building": null
+            },
+            {
+                "ground": "water",
+                "resource": null,
+                "building": null
+            },
+            {
+                "ground": "water",
+                "resource": null,
+                "building": null
+            },
+            {
+                "ground": "water",
+                "resource": null,
+                "building": null
+            },
+            {
+                "ground": "water",
+                "resource": null,
+                "building": null
+            },
+            {
+                "ground": "water",
+                "resource": null,
+                "building": null
+            },
+            {
+                "ground": "water",
+                "resource": null,
+                "building": null
+            },
+            {
+                "ground": "water",
+                "resource": null,
+                "building": null
+            },
+            {
+                "ground": "water",
+                "resource": null,
+                "building": null
+            },
+            {
+                "ground": "water",
+                "resource": null,
+                "building": null
+            },
+            {
+                "ground": "water",
+                "resource": null,
+                "building": null
+            },
+            {
+                "ground": "water",
+                "resource": null,
+                "building": null
+            },
+            {
+                "ground": "sand",
+                "resource": null,
+                "building": null
+            },
+            {
+                "ground": "sand",
+                "resource": null,
+                "building": null
+            },
+            {
+                "ground": "grass",
+                "resource": null,
+                "building": null
+            },
+            {
+                "ground": "grass",
+                "resource": null,
+                "building": null
+            },
+            {
+                "ground": "grass",
+                "resource": null,
+                "building": null
+            },
+            {
+                "ground": "stone",
+                "resource": null,
+                "building": null
+            },
+            {
+                "ground": "grass",
+                "resource": null,
+                "building": null
+            },
+            {
+                "ground": "grass",
+                "resource": null,
+                "building": null
+            },
+            {
+                "ground": "grass",
+                "resource": null,
+                "building": null
+            },
+            {
+                "ground": "grass",
+                "resource": null,
+                "building": null
+            },
+            {
+                "ground": "grass",
+                "resource": null,
+                "building": null
+            }
+        ],
+        [
+            {
+                "ground": "water",
+                "resource": null,
+                "building": null
+            },
+            {
+                "ground": "sand",
+                "resource": null,
+                "building": null
+            },
+            {
+                "ground": "grass",
+                "resource": null,
+                "building": null
+            },
+            {
+                "ground": "grass",
+                "resource": null,
+                "building": null
+            },
+            {
+                "ground": "grass",
+                "resource": null,
+                "building": null
+            },
+            {
+                "ground": "grass",
+                "resource": null,
+                "building": null
+            },
+            {
+                "ground": "sand",
+                "resource": null,
+                "building": null
+            },
+            {
+                "ground": "sand",
+                "resource": null,
+                "building": null
+            },
+            {
+                "ground": "water",
+                "resource": null,
+                "building": null
+            },
+            {
+                "ground": "water",
+                "resource": null,
+                "building": null
+            },
+            {
+                "ground": "water",
+                "resource": null,
+                "building": null
+            },
+            {
+                "ground": "water",
+                "resource": null,
+                "building": null
+            },
+            {
+                "ground": "water",
+                "resource": null,
+                "building": null
+            },
+            {
+                "ground": "water",
+                "resource": null,
+                "building": null
+            },
+            {
+                "ground": "water",
+                "resource": null,
+                "building": null
+            },
+            {
+                "ground": "water",
+                "resource": null,
+                "building": null
+            },
+            {
+                "ground": "water",
+                "resource": null,
+                "building": null
+            },
+            {
+                "ground": "water",
+                "resource": null,
+                "building": null
+            },
+            {
+                "ground": "water",
+                "resource": null,
+                "building": null
+            },
+            {
+                "ground": "sand",
+                "resource": null,
+                "building": null
+            },
+            {
+                "ground": "grass",
+                "resource": null,
+                "building": null
+            },
+            {
+                "ground": "grass",
+                "resource": null,
+                "building": null
+            },
+            {
+                "ground": "grass",
+                "resource": null,
+                "building": null
+            },
+            {
+                "ground": "stone",
+                "resource": null,
+                "building": null
+            },
+            {
+                "ground": "grass",
+                "resource": null,
+                "building": null
+            },
+            {
+                "ground": "grass",
+                "resource": null,
+                "building": null
+            },
+            {
+                "ground": "grass",
+                "resource": null,
+                "building": null
+            },
+            {
+                "ground": "grass",
+                "resource": null,
+                "building": null
+            },
+            {
+                "ground": "grass",
+                "resource": null,
+                "building": null
+            },
+            {
+                "ground": "grass",
+                "resource": null,
+                "building": null
+            }
+        ],
+        [
+            {
+                "ground": "sand",
+                "resource": null,
+                "building": null
+            },
+            {
+                "ground": "sand",
+                "resource": null,
+                "building": null
+            },
+            {
+                "ground": "grass",
+                "resource": null,
+                "building": null
+            },
+            {
+                "ground": "stone",
+                "resource": null,
+                "building": null
+            },
+            {
+                "ground": "grass",
+                "resource": null,
+                "building": null
+            },
+            {
+                "ground": "grass",
+                "resource": null,
+                "building": null
+            },
+            {
+                "ground": "grass",
+                "resource": null,
+                "building": null
+            },
+            {
+                "ground": "sand",
+                "resource": null,
+                "building": null
+            },
+            {
+                "ground": "sand",
+                "resource": null,
+                "building": null
+            },
+            {
+                "ground": "water",
+                "resource": null,
+                "building": null
+            },
+            {
+                "ground": "water",
+                "resource": null,
+                "building": null
+            },
+            {
+                "ground": "water",
+                "resource": null,
+                "building": null
+            },
+            {
+                "ground": "water",
+                "resource": null,
+                "building": null
+            },
+            {
+                "ground": "water",
+                "resource": null,
+                "building": null
+            },
+            {
+                "ground": "water",
+                "resource": null,
+                "building": null
+            },
+            {
+                "ground": "water",
+                "resource": null,
+                "building": null
+            },
+            {
+                "ground": "water",
+                "resource": null,
+                "building": null
+            },
+            {
+                "ground": "water",
+                "resource": null,
+                "building": null
+            },
+            {
+                "ground": "water",
+                "resource": null,
+                "building": null
+            },
+            {
+                "ground": "sand",
+                "resource": null,
+                "building": null
+            },
+            {
+                "ground": "grass",
+                "resource": null,
+                "building": null
+            },
+            {
+                "ground": "grass",
+                "resource": null,
+                "building": null
+            },
+            {
+                "ground": "grass",
+                "resource": null,
+                "building": null
+            },
+            {
+                "ground": "grass",
+                "resource": null,
+                "building": null
+            },
+            {
+                "ground": "stone",
+                "resource": null,
+                "building": null
+            },
+            {
+                "ground": "grass",
+                "resource": null,
+                "building": null
+            },
+            {
+                "ground": "grass",
+                "resource": null,
+                "building": null
+            },
+            {
+                "ground": "grass",
+                "resource": null,
+                "building": null
+            },
+            {
+                "ground": "grass",
+                "resource": null,
+                "building": null
+            },
+            {
+                "ground": "stone",
+                "resource": null,
+                "building": null
+            }
+        ],
+        [
+            {
+                "ground": "grass",
+                "resource": null,
+                "building": null
+            },
+            {
+                "ground": "stone",
+                "resource": null,
+                "building": null
+            },
+            {
+                "ground": "grass",
+                "resource": null,
+                "building": null
+            },
+            {
+                "ground": "grass",
+                "resource": null,
+                "building": null
+            },
+            {
+                "ground": "grass",
+                "resource": null,
+                "building": null
+            },
+            {
+                "ground": "grass",
+                "resource": null,
+                "building": null
+            },
+            {
+                "ground": "grass",
+                "resource": null,
+                "building": null
+            },
+            {
+                "ground": "grass",
+                "resource": null,
+                "building": null
+            },
+            {
+                "ground": "sand",
+                "resource": null,
+                "building": null
+            },
+            {
+                "ground": "water",
+                "resource": null,
+                "building": null
+            },
+            {
+                "ground": "water",
+                "resource": null,
+                "building": null
+            },
+            {
+                "ground": "water",
+                "resource": null,
+                "building": null
+            },
+            {
+                "ground": "water",
+                "resource": null,
+                "building": null
+            },
+            {
+                "ground": "water",
+                "resource": null,
+                "building": null
+            },
+            {
+                "ground": "water",
+                "resource": null,
+                "building": null
+            },
+            {
+                "ground": "water",
+                "resource": null,
+                "building": null
+            },
+            {
+                "ground": "water",
+                "resource": null,
+                "building": null
+            },
+            {
+                "ground": "water",
+                "resource": null,
+                "building": null
+            },
+            {
+                "ground": "water",
+                "resource": null,
+                "building": null
+            },
+            {
+                "ground": "sand",
+                "resource": null,
+                "building": null
+            },
+            {
+                "ground": "grass",
+                "resource": null,
+                "building": null
+            },
+            {
+                "ground": "grass",
+                "resource": null,
+                "building": null
+            },
+            {
+                "ground": "grass",
+                "resource": null,
+                "building": null
+            },
+            {
+                "ground": "grass",
+                "resource": null,
+                "building": null
+            },
+            {
+                "ground": "grass",
+                "resource": null,
+                "building": null
+            },
+            {
+                "ground": "grass",
+                "resource": null,
+                "building": null
+            },
+            {
+                "ground": "grass",
+                "resource": null,
+                "building": null
+            },
+            {
+                "ground": "grass",
+                "resource": null,
+                "building": null
+            },
+            {
+                "ground": "grass",
+                "resource": null,
+                "building": null
+            },
+            {
+                "ground": "grass",
+                "resource": null,
+                "building": null
+            }
+        ],
+        [
+            {
+                "ground": "grass",
+                "resource": null,
+                "building": null
+            },
+            {
+                "ground": "grass",
+                "resource": null,
+                "building": null
+            },
+            {
+                "ground": "grass",
+                "resource": null,
+                "building": null
+            },
+            {
+                "ground": "grass",
+                "resource": null,
+                "building": null
+            },
+            {
+                "ground": "grass",
+                "resource": null,
+                "building": null
+            },
+            {
+                "ground": "grass",
+                "resource": null,
+                "building": null
+            },
+            {
+                "ground": "grass",
+                "resource": null,
+                "building": null
+            },
+            {
+                "ground": "grass",
+                "resource": null,
+                "building": null
+            },
+            {
+                "ground": "sand",
+                "resource": null,
+                "building": null
+            },
+            {
+                "ground": "sand",
+                "resource": null,
+                "building": null
+            },
+            {
+                "ground": "water",
+                "resource": null,
+                "building": null
+            },
+            {
+                "ground": "water",
+                "resource": null,
+                "building": null
+            },
+            {
+                "ground": "water",
+                "resource": null,
+                "building": null
+            },
+            {
+                "ground": "water",
+                "resource": null,
+                "building": null
+            },
+            {
+                "ground": "water",
+                "resource": null,
+                "building": null
+            },
+            {
+                "ground": "water",
+                "resource": null,
+                "building": null
+            },
+            {
+                "ground": "water",
+                "resource": null,
+                "building": null
+            },
+            {
+                "ground": "water",
+                "resource": null,
+                "building": null
+            },
+            {
+                "ground": "water",
+                "resource": null,
+                "building": null
+            },
+            {
+                "ground": "sand",
+                "resource": null,
+                "building": null
+            },
+            {
+                "ground": "sand",
+                "resource": null,
+                "building": null
+            },
+            {
+                "ground": "sand",
+                "resource": null,
+                "building": null
+            },
+            {
+                "ground": "stone",
+                "resource": null,
+                "building": null
+            },
+            {
+                "ground": "grass",
+                "resource": null,
+                "building": null
+            },
+            {
+                "ground": "grass",
+                "resource": null,
+                "building": null
+            },
+            {
+                "ground": "grass",
+                "resource": null,
+                "building": null
+            },
+            {
+                "ground": "grass",
+                "resource": null,
+                "building": null
+            },
+            {
+                "ground": "stone",
+                "resource": null,
+                "building": null
+            },
+            {
+                "ground": "grass",
+                "resource": null,
+                "building": null
+            },
+            {
+                "ground": "grass",
+                "resource": null,
+                "building": null
+            }
+        ],
+        [
+            {
+                "ground": "grass",
+                "resource": null,
+                "building": null
+            },
+            {
+                "ground": "stone",
+                "resource": null,
+                "building": null
+            },
+            {
+                "ground": "grass",
+                "resource": null,
+                "building": null
+            },
+            {
+                "ground": "grass",
+                "resource": null,
+                "building": null
+            },
+            {
+                "ground": "grass",
+                "resource": null,
+                "building": null
+            },
+            {
+                "ground": "grass",
+                "resource": null,
+                "building": null
+            },
+            {
+                "ground": "grass",
+                "resource": null,
+                "building": null
+            },
+            {
+                "ground": "grass",
+                "resource": null,
+                "building": null
+            },
+            {
+                "ground": "stone",
+                "resource": null,
+                "building": null
+            },
+            {
+                "ground": "sand",
+                "resource": null,
+                "building": null
+            },
+            {
+                "ground": "sand",
+                "resource": null,
+                "building": null
+            },
+            {
+                "ground": "water",
+                "resource": null,
+                "building": null
+            },
+            {
+                "ground": "water",
+                "resource": null,
+                "building": null
+            },
+            {
+                "ground": "water",
+                "resource": null,
+                "building": null
+            },
+            {
+                "ground": "water",
+                "resource": null,
+                "building": null
+            },
+            {
+                "ground": "water",
+                "resource": null,
+                "building": null
+            },
+            {
+                "ground": "water",
+                "resource": null,
+                "building": null
+            },
+            {
+                "ground": "water",
+                "resource": null,
+                "building": null
+            },
+            {
+                "ground": "water",
+                "resource": null,
+                "building": null
+            },
+            {
+                "ground": "water",
+                "resource": null,
+                "building": null
+            },
+            {
+                "ground": "water",
+                "resource": null,
+                "building": null
+            },
+            {
+                "ground": "sand",
+                "resource": null,
+                "building": null
+            },
+            {
+                "ground": "sand",
+                "resource": null,
+                "building": null
+            },
+            {
+                "ground": "sand",
+                "resource": null,
+                "building": null
+            },
+            {
+                "ground": "sand",
+                "resource": null,
+                "building": null
+            },
+            {
+                "ground": "grass",
+                "resource": null,
+                "building": null
+            },
+            {
+                "ground": "grass",
+                "resource": null,
+                "building": null
+            },
+            {
+                "ground": "grass",
+                "resource": null,
+                "building": null
+            },
+            {
+                "ground": "grass",
+                "resource": null,
+                "building": null
+            },
+            {
+                "ground": "stone",
+                "resource": null,
+                "building": null
+            }
+        ],
+        [
+            {
+                "ground": "stone",
+                "resource": null,
+                "building": null
+            },
+            {
+                "ground": "grass",
+                "resource": null,
+                "building": null
+            },
+            {
+                "ground": "grass",
+                "resource": null,
+                "building": null
+            },
+            {
+                "ground": "grass",
+                "resource": null,
+                "building": null
+            },
+            {
+                "ground": "grass",
+                "resource": null,
+                "building": null
+            },
+            {
+                "ground": "grass",
+                "resource": null,
+                "building": null
+            },
+            {
+                "ground": "grass",
+                "resource": null,
+                "building": null
+            },
+            {
+                "ground": "grass",
+                "resource": null,
+                "building": null
+            },
+            {
+                "ground": "grass",
+                "resource": null,
+                "building": null
+            },
+            {
+                "ground": "grass",
+                "resource": null,
+                "building": null
+            },
+            {
+                "ground": "sand",
+                "resource": null,
+                "building": null
+            },
+            {
+                "ground": "sand",
+                "resource": null,
+                "building": null
+            },
+            {
+                "ground": "water",
+                "resource": null,
+                "building": null
+            },
+            {
+                "ground": "water",
+                "resource": null,
+                "building": null
+            },
+            {
+                "ground": "water",
+                "resource": null,
+                "building": null
+            },
+            {
+                "ground": "water",
+                "resource": null,
+                "building": null
+            },
+            {
+                "ground": "water",
+                "resource": null,
+                "building": null
+            },
+            {
+                "ground": "water",
+                "resource": null,
+                "building": null
+            },
+            {
+                "ground": "water",
+                "resource": null,
+                "building": null
+            },
+            {
+                "ground": "water",
+                "resource": null,
+                "building": null
+            },
+            {
+                "ground": "water",
+                "resource": null,
+                "building": null
+            },
+            {
+                "ground": "water",
+                "resource": null,
+                "building": null
+            },
+            {
+                "ground": "water",
+                "resource": null,
+                "building": null
+            },
+            {
+                "ground": "water",
+                "resource": null,
+                "building": null
+            },
+            {
+                "ground": "sand",
+                "resource": null,
+                "building": null
+            },
+            {
+                "ground": "sand",
+                "resource": null,
+                "building": null
+            },
+            {
+                "ground": "sand",
+                "resource": null,
+                "building": null
+            },
+            {
+                "ground": "sand",
+                "resource": null,
+                "building": null
+            },
+            {
+                "ground": "sand",
+                "resource": null,
+                "building": null
+            },
+            {
+                "ground": "sand",
+                "resource": null,
+                "building": null
+            }
+        ],
+        [
+            {
+                "ground": "stone",
+                "resource": null,
+                "building": null
+            },
+            {
+                "ground": "grass",
+                "resource": null,
+                "building": null
+            },
+            {
+                "ground": "grass",
+                "resource": null,
+                "building": null
+            },
+            {
+                "ground": "grass",
+                "resource": null,
+                "building": null
+            },
+            {
+                "ground": "stone",
+                "resource": null,
+                "building": null
+            },
+            {
+                "ground": "grass",
+                "resource": null,
+                "building": null
+            },
+            {
+                "ground": "grass",
+                "resource": null,
+                "building": null
+            },
+            {
+                "ground": "grass",
+                "resource": null,
+                "building": null
+            },
+            {
+                "ground": "grass",
+                "resource": null,
+                "building": null
+            },
+            {
+                "ground": "grass",
+                "resource": null,
+                "building": null
+            },
+            {
+                "ground": "sand",
+                "resource": null,
+                "building": null
+            },
+            {
+                "ground": "sand",
+                "resource": null,
+                "building": null
+            },
+            {
+                "ground": "water",
+                "resource": null,
+                "building": null
+            },
+            {
+                "ground": "water",
+                "resource": null,
+                "building": null
+            },
+            {
+                "ground": "water",
+                "resource": null,
+                "building": null
+            },
+            {
+                "ground": "water",
+                "resource": null,
+                "building": null
+            },
+            {
+                "ground": "water",
+                "resource": null,
+                "building": null
+            },
+            {
+                "ground": "water",
+                "resource": null,
+                "building": null
+            },
+            {
+                "ground": "water",
+                "resource": null,
+                "building": null
+            },
+            {
+                "ground": "water",
+                "resource": null,
+                "building": null
+            },
+            {
+                "ground": "water",
+                "resource": null,
+                "building": null
+            },
+            {
+                "ground": "water",
+                "resource": null,
+                "building": null
+            },
+            {
+                "ground": "water",
+                "resource": null,
+                "building": null
+            },
+            {
+                "ground": "water",
+                "resource": null,
+                "building": null
+            },
+            {
+                "ground": "water",
+                "resource": null,
+                "building": null
+            },
+            {
+                "ground": "water",
+                "resource": null,
+                "building": null
+            },
+            {
+                "ground": "sand",
+                "resource": null,
+                "building": null
+            },
+            {
+                "ground": "sand",
+                "resource": null,
+                "building": null
+            },
+            {
+                "ground": "water",
+                "resource": null,
+                "building": null
+            },
+            {
+                "ground": "water",
+                "resource": null,
+                "building": null
+            }
+        ],
+        [
+            {
+                "ground": "grass",
+                "resource": null,
+                "building": null
+            },
+            {
+                "ground": "grass",
+                "resource": null,
+                "building": null
+            },
+            {
+                "ground": "grass",
+                "resource": null,
+                "building": null
+            },
+            {
+                "ground": "grass",
+                "resource": null,
+                "building": null
+            },
+            {
+                "ground": "stone",
+                "resource": null,
+                "building": null
+            },
+            {
+                "ground": "grass",
+                "resource": null,
+                "building": null
+            },
+            {
+                "ground": "grass",
+                "resource": null,
+                "building": null
+            },
+            {
+                "ground": "grass",
+                "resource": null,
+                "building": null
+            },
+            {
+                "ground": "sand",
+                "resource": null,
+                "building": null
+            },
+            {
+                "ground": "sand",
+                "resource": null,
+                "building": null
+            },
+            {
+                "ground": "sand",
+                "resource": null,
+                "building": null
+            },
+            {
+                "ground": "water",
+                "resource": null,
+                "building": null
+            },
+            {
+                "ground": "water",
+                "resource": null,
+                "building": null
+            },
+            {
+                "ground": "water",
+                "resource": null,
+                "building": null
+            },
+            {
+                "ground": "water",
+                "resource": null,
+                "building": null
+            },
+            {
+                "ground": "water",
+                "resource": null,
+                "building": null
+            },
+            {
+                "ground": "water",
+                "resource": null,
+                "building": null
+            },
+            {
+                "ground": "water",
+                "resource": null,
+                "building": null
+            },
+            {
+                "ground": "water",
+                "resource": null,
+                "building": null
+            },
+            {
+                "ground": "water",
+                "resource": null,
+                "building": null
+            },
+            {
+                "ground": "water",
+                "resource": null,
+                "building": null
+            },
+            {
+                "ground": "water",
+                "resource": null,
+                "building": null
+            },
+            {
+                "ground": "water",
+                "resource": null,
+                "building": null
+            },
+            {
+                "ground": "water",
+                "resource": null,
+                "building": null
+            },
+            {
+                "ground": "water",
+                "resource": null,
+                "building": null
+            },
+            {
+                "ground": "water",
+                "resource": null,
+                "building": null
+            },
+            {
+                "ground": "water",
+                "resource": null,
+                "building": null
+            },
+            {
+                "ground": "water",
+                "resource": null,
+                "building": null
+            },
+            {
+                "ground": "water",
+                "resource": null,
+                "building": null
+            },
+            {
+                "ground": "water",
+                "resource": null,
+                "building": null
+            }
+        ],
+        [
+            {
+                "ground": "grass",
+                "resource": null,
+                "building": null
+            },
+            {
+                "ground": "grass",
+                "resource": null,
+                "building": null
+            },
+            {
+                "ground": "grass",
+                "resource": null,
+                "building": null
+            },
+            {
+                "ground": "grass",
+                "resource": null,
+                "building": null
+            },
+            {
+                "ground": "grass",
+                "resource": null,
+                "building": null
+            },
+            {
+                "ground": "grass",
+                "resource": null,
+                "building": null
+            },
+            {
+                "ground": "grass",
+                "resource": null,
+                "building": null
+            },
+            {
+                "ground": "grass",
+                "resource": null,
+                "building": null
+            },
+            {
+                "ground": "sand",
+                "resource": null,
+                "building": null
+            },
+            {
+                "ground": "water",
+                "resource": null,
+                "building": null
+            },
+            {
+                "ground": "water",
+                "resource": null,
+                "building": null
+            },
+            {
+                "ground": "water",
+                "resource": null,
+                "building": null
+            },
+            {
+                "ground": "water",
+                "resource": null,
+                "building": null
+            },
+            {
+                "ground": "water",
+                "resource": null,
+                "building": null
+            },
+            {
+                "ground": "water",
+                "resource": null,
+                "building": null
+            },
+            {
+                "ground": "water",
+                "resource": null,
+                "building": null
+            },
+            {
+                "ground": "water",
+                "resource": null,
+                "building": null
+            },
+            {
+                "ground": "water",
+                "resource": null,
+                "building": null
+            },
+            {
+                "ground": "water",
+                "resource": null,
+                "building": null
+            },
+            {
+                "ground": "water",
+                "resource": null,
+                "building": null
+            },
+            {
+                "ground": "water",
+                "resource": null,
+                "building": null
+            },
+            {
+                "ground": "water",
+                "resource": null,
+                "building": null
+            },
+            {
+                "ground": "water",
+                "resource": null,
+                "building": null
+            },
+            {
+                "ground": "water",
+                "resource": null,
+                "building": null
+            },
+            {
+                "ground": "water",
+                "resource": null,
+                "building": null
+            },
+            {
+                "ground": "water",
+                "resource": null,
+                "building": null
+            },
+            {
+                "ground": "water",
+                "resource": null,
+                "building": null
+            },
+            {
+                "ground": "sand",
+                "resource": null,
+                "building": null
+            },
+            {
+                "ground": "sand",
+                "resource": null,
+                "building": null
+            },
+            {
+                "ground": "water",
+                "resource": null,
+                "building": null
+            }
+        ],
+        [
+            {
+                "ground": "grass",
+                "resource": null,
+                "building": null
+            },
+            {
+                "ground": "grass",
+                "resource": null,
+                "building": null
+            },
+            {
+                "ground": "grass",
+                "resource": null,
+                "building": null
+            },
+            {
+                "ground": "grass",
+                "resource": null,
+                "building": null
+            },
+            {
+                "ground": "grass",
+                "resource": null,
+                "building": null
+            },
+            {
+                "ground": "stone",
+                "resource": null,
+                "building": null
+            },
+            {
+                "ground": "grass",
+                "resource": null,
+                "building": null
+            },
+            {
+                "ground": "grass",
+                "resource": null,
+                "building": null
+            },
+            {
+                "ground": "sand",
+                "resource": null,
+                "building": null
+            },
+            {
+                "ground": "water",
+                "resource": null,
+                "building": null
+            },
+            {
+                "ground": "water",
+                "resource": null,
+                "building": null
+            },
+            {
+                "ground": "water",
+                "resource": null,
+                "building": null
+            },
+            {
+                "ground": "water",
+                "resource": null,
+                "building": null
+            },
+            {
+                "ground": "water",
+                "resource": null,
+                "building": null
+            },
+            {
+                "ground": "water",
+                "resource": null,
+                "building": null
+            },
+            {
+                "ground": "water",
+                "resource": null,
+                "building": null
+            },
+            {
+                "ground": "water",
+                "resource": null,
+                "building": null
+            },
+            {
+                "ground": "water",
+                "resource": null,
+                "building": null
+            },
+            {
+                "ground": "water",
+                "resource": null,
+                "building": null
+            },
+            {
+                "ground": "water",
+                "resource": null,
+                "building": null
+            },
+            {
+                "ground": "water",
+                "resource": null,
+                "building": null
+            },
+            {
+                "ground": "water",
+                "resource": null,
+                "building": null
+            },
+            {
+                "ground": "water",
+                "resource": null,
+                "building": null
+            },
+            {
+                "ground": "water",
+                "resource": null,
+                "building": null
+            },
+            {
+                "ground": "sand",
+                "resource": null,
+                "building": null
+            },
+            {
+                "ground": "water",
+                "resource": null,
+                "building": null
+            },
+            {
+                "ground": "sand",
+                "resource": null,
+                "building": null
+            },
+            {
+                "ground": "sand",
+                "resource": null,
+                "building": null
+            },
+            {
+                "ground": "sand",
+                "resource": null,
+                "building": null
+            },
+            {
+                "ground": "sand",
+                "resource": null,
+                "building": null
+            }
+        ],
+        [
+            {
+                "ground": "grass",
+                "resource": null,
+                "building": null
+            },
+            {
+                "ground": "grass",
+                "resource": null,
+                "building": null
+            },
+            {
+                "ground": "grass",
+                "resource": null,
+                "building": null
+            },
+            {
+                "ground": "grass",
+                "resource": null,
+                "building": null
+            },
+            {
+                "ground": "grass",
+                "resource": null,
+                "building": null
+            },
+            {
+                "ground": "grass",
+                "resource": null,
+                "building": null
+            },
+            {
+                "ground": "grass",
+                "resource": null,
+                "building": null
+            },
+            {
+                "ground": "grass",
+                "resource": null,
+                "building": null
+            },
+            {
+                "ground": "sand",
+                "resource": null,
+                "building": null
+            },
+            {
+                "ground": "water",
+                "resource": null,
+                "building": null
+            },
+            {
+                "ground": "water",
+                "resource": null,
+                "building": null
+            },
+            {
+                "ground": "water",
+                "resource": null,
+                "building": null
+            },
+            {
+                "ground": "water",
+                "resource": null,
+                "building": null
+            },
+            {
+                "ground": "water",
+                "resource": null,
+                "building": null
+            },
+            {
+                "ground": "water",
+                "resource": null,
+                "building": null
+            },
+            {
+                "ground": "water",
+                "resource": null,
+                "building": null
+            },
+            {
+                "ground": "water",
+                "resource": null,
+                "building": null
+            },
+            {
+                "ground": "water",
+                "resource": null,
+                "building": null
+            },
+            {
+                "ground": "water",
+                "resource": null,
+                "building": null
+            },
+            {
+                "ground": "water",
+                "resource": null,
+                "building": null
+            },
+            {
+                "ground": "water",
+                "resource": null,
+                "building": null
+            },
+            {
+                "ground": "water",
+                "resource": null,
+                "building": null
+            },
+            {
+                "ground": "water",
+                "resource": null,
+                "building": null
+            },
+            {
+                "ground": "sand",
+                "resource": null,
+                "building": null
+            },
+            {
+                "ground": "sand",
+                "resource": null,
+                "building": null
+            },
+            {
+                "ground": "sand",
+                "resource": null,
+                "building": null
+            },
+            {
+                "ground": "sand",
+                "resource": null,
+                "building": null
+            },
+            {
+                "ground": "grass",
+                "resource": null,
+                "building": null
+            },
+            {
+                "ground": "grass",
+                "resource": null,
+                "building": null
+            },
+            {
+                "ground": "grass",
+                "resource": null,
+                "building": null
+            }
+        ],
+        [
+            {
+                "ground": "grass",
+                "resource": null,
+                "building": null
+            },
+            {
+                "ground": "grass",
+                "resource": null,
+                "building": null
+            },
+            {
+                "ground": "grass",
+                "resource": null,
+                "building": null
+            },
+            {
+                "ground": "stone",
+                "resource": null,
+                "building": null
+            },
+            {
+                "ground": "stone",
+                "resource": null,
+                "building": null
+            },
+            {
+                "ground": "grass",
+                "resource": null,
+                "building": null
+            },
+            {
+                "ground": "grass",
+                "resource": null,
+                "building": null
+            },
+            {
+                "ground": "grass",
+                "resource": null,
+                "building": null
+            },
+            {
+                "ground": "sand",
+                "resource": null,
+                "building": null
+            },
+            {
+                "ground": "water",
+                "resource": null,
+                "building": null
+            },
+            {
+                "ground": "water",
+                "resource": null,
+                "building": null
+            },
+            {
+                "ground": "water",
+                "resource": null,
+                "building": null
+            },
+            {
+                "ground": "water",
+                "resource": null,
+                "building": null
+            },
+            {
+                "ground": "water",
+                "resource": null,
+                "building": null
+            },
+            {
+                "ground": "water",
+                "resource": null,
+                "building": null
+            },
+            {
+                "ground": "water",
+                "resource": null,
+                "building": null
+            },
+            {
+                "ground": "water",
+                "resource": null,
+                "building": null
+            },
+            {
+                "ground": "water",
+                "resource": null,
+                "building": null
+            },
+            {
+                "ground": "water",
+                "resource": null,
+                "building": null
+            },
+            {
+                "ground": "water",
+                "resource": null,
+                "building": null
+            },
+            {
+                "ground": "sand",
+                "resource": null,
+                "building": null
+            },
+            {
+                "ground": "water",
+                "resource": null,
+                "building": null
+            },
+            {
+                "ground": "sand",
+                "resource": null,
+                "building": null
+            },
+            {
+                "ground": "sand",
+                "resource": null,
+                "building": null
+            },
+            {
+                "ground": "grass",
+                "resource": null,
+                "building": null
+            },
+            {
+                "ground": "grass",
+                "resource": null,
+                "building": null
+            },
+            {
+                "ground": "grass",
+                "resource": null,
+                "building": null
+            },
+            {
+                "ground": "grass",
+                "resource": null,
+                "building": null
+            },
+            {
+                "ground": "grass",
+                "resource": null,
+                "building": null
+            },
+            {
+                "ground": "grass",
+                "resource": null,
+                "building": null
+            }
+        ],
+        [
+            {
+                "ground": "grass",
+                "resource": null,
+                "building": null
+            },
+            {
+                "ground": "grass",
+                "resource": null,
+                "building": null
+            },
+            {
+                "ground": "stone",
+                "resource": null,
+                "building": null
+            },
+            {
+                "ground": "grass",
+                "resource": null,
+                "building": null
+            },
+            {
+                "ground": "grass",
+                "resource": null,
+                "building": null
+            },
+            {
+                "ground": "grass",
+                "resource": null,
+                "building": null
+            },
+            {
+                "ground": "stone",
+                "resource": null,
+                "building": null
+            },
+            {
+                "ground": "grass",
+                "resource": null,
+                "building": null
+            },
+            {
+                "ground": "sand",
+                "resource": null,
+                "building": null
+            },
+            {
+                "ground": "sand",
+                "resource": null,
+                "building": null
+            },
+            {
+                "ground": "sand",
+                "resource": null,
+                "building": null
+            },
+            {
+                "ground": "water",
+                "resource": null,
+                "building": null
+            },
+            {
+                "ground": "water",
+                "resource": null,
+                "building": null
+            },
+            {
+                "ground": "water",
+                "resource": null,
+                "building": null
+            },
+            {
+                "ground": "water",
+                "resource": null,
+                "building": null
+            },
+            {
+                "ground": "water",
+                "resource": null,
+                "building": null
+            },
+            {
+                "ground": "water",
+                "resource": null,
+                "building": null
+            },
+            {
+                "ground": "water",
+                "resource": null,
+                "building": null
+            },
+            {
+                "ground": "water",
+                "resource": null,
+                "building": null
+            },
+            {
+                "ground": "water",
+                "resource": null,
+                "building": null
+            },
+            {
+                "ground": "sand",
+                "resource": null,
+                "building": null
+            },
+            {
+                "ground": "sand",
+                "resource": null,
+                "building": null
+            },
+            {
+                "ground": "sand",
+                "resource": null,
+                "building": null
+            },
+            {
+                "ground": "grass",
+                "resource": null,
+                "building": null
+            },
+            {
+                "ground": "stone",
+                "resource": null,
+                "building": null
+            },
+            {
+                "ground": "grass",
+                "resource": null,
+                "building": null
+            },
+            {
+                "ground": "grass",
+                "resource": null,
+                "building": null
+            },
+            {
+                "ground": "grass",
+                "resource": null,
+                "building": null
+            },
+            {
+                "ground": "grass",
+                "resource": null,
+                "building": null
+            },
+            {
+                "ground": "grass",
+                "resource": null,
+                "building": null
+            }
+        ],
+        [
+            {
+                "ground": "sand",
+                "resource": null,
+                "building": null
+            },
+            {
+                "ground": "sand",
+                "resource": null,
+                "building": null
+            },
+            {
+                "ground": "grass",
+                "resource": null,
+                "building": null
+            },
+            {
+                "ground": "grass",
+                "resource": null,
+                "building": null
+            },
+            {
+                "ground": "grass",
+                "resource": null,
+                "building": null
+            },
+            {
+                "ground": "grass",
+                "resource": null,
+                "building": null
+            },
+            {
+                "ground": "stone",
+                "resource": null,
+                "building": null
+            },
+            {
+                "ground": "grass",
+                "resource": null,
+                "building": null
+            },
+            {
+                "ground": "grass",
+                "resource": null,
+                "building": null
+            },
+            {
+                "ground": "grass",
+                "resource": null,
+                "building": null
+            },
+            {
+                "ground": "sand",
+                "resource": null,
+                "building": null
+            },
+            {
+                "ground": "sand",
+                "resource": null,
+                "building": null
+            },
+            {
+                "ground": "water",
+                "resource": null,
+                "building": null
+            },
+            {
+                "ground": "water",
+                "resource": null,
+                "building": null
+            },
+            {
+                "ground": "water",
+                "resource": null,
+                "building": null
+            },
+            {
+                "ground": "water",
+                "resource": null,
+                "building": null
+            },
+            {
+                "ground": "water",
+                "resource": null,
+                "building": null
+            },
+            {
+                "ground": "water",
+                "resource": null,
+                "building": null
+            },
+            {
+                "ground": "water",
+                "resource": null,
+                "building": null
+            },
+            {
+                "ground": "water",
+                "resource": null,
+                "building": null
+            },
+            {
+                "ground": "water",
+                "resource": null,
+                "building": null
+            },
+            {
+                "ground": "sand",
+                "resource": null,
+                "building": null
+            },
+            {
+                "ground": "grass",
+                "resource": null,
+                "building": null
+            },
+            {
+                "ground": "grass",
+                "resource": null,
+                "building": null
+            },
+            {
+                "ground": "grass",
+                "resource": null,
+                "building": null
+            },
+            {
+                "ground": "grass",
+                "resource": null,
+                "building": null
+            },
+            {
+                "ground": "grass",
+                "resource": null,
+                "building": null
+            },
+            {
+                "ground": "grass",
+                "resource": null,
+                "building": null
+            },
+            {
+                "ground": "grass",
+                "resource": null,
+                "building": null
+            },
+            {
+                "ground": "grass",
+                "resource": null,
+                "building": null
+            }
+        ],
+        [
+            {
+                "ground": "water",
+                "resource": null,
+                "building": null
+            },
+            {
+                "ground": "sand",
+                "resource": null,
+                "building": null
+            },
+            {
+                "ground": "grass",
+                "resource": null,
+                "building": null
+            },
+            {
+                "ground": "grass",
+                "resource": null,
+                "building": null
+            },
+            {
+                "ground": "grass",
+                "resource": null,
+                "building": null
+            },
+            {
+                "ground": "grass",
+                "resource": null,
+                "building": null
+            },
+            {
+                "ground": "grass",
+                "resource": null,
+                "building": null
+            },
+            {
+                "ground": "grass",
+                "resource": null,
+                "building": null
+            },
+            {
+                "ground": "grass",
+                "resource": null,
+                "building": null
+            },
+            {
+                "ground": "grass",
+                "resource": null,
+                "building": null
+            },
+            {
+                "ground": "grass",
+                "resource": null,
+                "building": null
+            },
+            {
+                "ground": "sand",
+                "resource": null,
+                "building": null
+            },
+            {
+                "ground": "sand",
+                "resource": null,
+                "building": null
+            },
+            {
+                "ground": "sand",
+                "resource": null,
+                "building": null
+            },
+            {
+                "ground": "water",
+                "resource": null,
+                "building": null
+            },
+            {
+                "ground": "water",
+                "resource": null,
+                "building": null
+            },
+            {
+                "ground": "water",
+                "resource": null,
+                "building": null
+            },
+            {
+                "ground": "water",
+                "resource": null,
+                "building": null
+            },
+            {
+                "ground": "water",
+                "resource": null,
+                "building": null
+            },
+            {
+                "ground": "water",
+                "resource": null,
+                "building": null
+            },
+            {
+                "ground": "sand",
+                "resource": null,
+                "building": null
+            },
+            {
+                "ground": "sand",
+                "resource": null,
+                "building": null
+            },
+            {
+                "ground": "stone",
+                "resource": null,
+                "building": null
+            },
+            {
+                "ground": "grass",
+                "resource": null,
+                "building": null
+            },
+            {
+                "ground": "grass",
+                "resource": null,
+                "building": null
+            },
+            {
+                "ground": "grass",
+                "resource": null,
+                "building": null
+            },
+            {
+                "ground": "stone",
+                "resource": null,
+                "building": null
+            },
+            {
+                "ground": "grass",
+                "resource": null,
+                "building": null
+            },
+            {
+                "ground": "stone",
+                "resource": null,
+                "building": null
+            },
+            {
+                "ground": "grass",
+                "resource": null,
+                "building": null
+            }
+        ],
+        [
+            {
+                "ground": "sand",
+                "resource": null,
+                "building": null
+            },
+            {
+                "ground": "sand",
+                "resource": null,
+                "building": null
+            },
+            {
+                "ground": "stone",
+                "resource": null,
+                "building": null
+            },
+            {
+                "ground": "grass",
+                "resource": null,
+                "building": null
+            },
+            {
+                "ground": "grass",
+                "resource": null,
+                "building": null
+            },
+            {
+                "ground": "grass",
+                "resource": null,
+                "building": null
+            },
+            {
+                "ground": "grass",
+                "resource": null,
+                "building": null
+            },
+            {
+                "ground": "grass",
+                "resource": null,
+                "building": null
+            },
+            {
+                "ground": "grass",
+                "resource": null,
+                "building": null
+            },
+            {
+                "ground": "grass",
+                "resource": null,
+                "building": null
+            },
+            {
+                "ground": "grass",
+                "resource": null,
+                "building": null
+            },
+            {
+                "ground": "grass",
+                "resource": null,
+                "building": null
+            },
+            {
+                "ground": "grass",
+                "resource": null,
+                "building": null
+            },
+            {
+                "ground": "sand",
+                "resource": null,
+                "building": null
+            },
+            {
+                "ground": "sand",
+                "resource": null,
+                "building": null
+            },
+            {
+                "ground": "sand",
+                "resource": null,
+                "building": null
+            },
+            {
+                "ground": "sand",
+                "resource": null,
+                "building": null
+            },
+            {
+                "ground": "sand",
+                "resource": null,
+                "building": null
+            },
+            {
+                "ground": "water",
+                "resource": null,
+                "building": null
+            },
+            {
+                "ground": "water",
+                "resource": null,
+                "building": null
+            },
+            {
+                "ground": "sand",
+                "resource": null,
+                "building": null
+            },
+            {
+                "ground": "grass",
+                "resource": null,
+                "building": null
+            },
+            {
+                "ground": "grass",
+                "resource": null,
+                "building": null
+            },
+            {
+                "ground": "stone",
+                "resource": null,
+                "building": null
+            },
+            {
+                "ground": "grass",
+                "resource": null,
+                "building": null
+            },
+            {
+                "ground": "grass",
+                "resource": null,
+                "building": null
+            },
+            {
+                "ground": "grass",
+                "resource": null,
+                "building": null
+            },
+            {
+                "ground": "grass",
+                "resource": null,
+                "building": null
+            },
+            {
+                "ground": "grass",
+                "resource": null,
+                "building": null
+            },
+            {
+                "ground": "grass",
+                "resource": null,
+                "building": null
+            }
+        ],
+        [
+            {
+                "ground": "grass",
+                "resource": null,
+                "building": null
+            },
+            {
+                "ground": "grass",
+                "resource": null,
+                "building": null
+            },
+            {
+                "ground": "stone",
+                "resource": null,
+                "building": null
+            },
+            {
+                "ground": "grass",
+                "resource": null,
+                "building": null
+            },
+            {
+                "ground": "grass",
+                "resource": null,
+                "building": null
+            },
+            {
+                "ground": "grass",
+                "resource": null,
+                "building": null
+            },
+            {
+                "ground": "grass",
+                "resource": null,
+                "building": null
+            },
+            {
+                "ground": "grass",
+                "resource": null,
+                "building": null
+            },
+            {
+                "ground": "grass",
+                "resource": null,
+                "building": null
+            },
+            {
+                "ground": "grass",
+                "resource": null,
+                "building": null
+            },
+            {
+                "ground": "grass",
+                "resource": null,
+                "building": null
+            },
+            {
+                "ground": "grass",
+                "resource": null,
+                "building": null
+            },
+            {
+                "ground": "stone",
+                "resource": null,
+                "building": null
+            },
+            {
+                "ground": "grass",
+                "resource": null,
+                "building": null
+            },
+            {
+                "ground": "grass",
+                "resource": null,
+                "building": null
+            },
+            {
+                "ground": "grass",
+                "resource": null,
+                "building": null
+            },
+            {
+                "ground": "grass",
+                "resource": null,
+                "building": null
+            },
+            {
+                "ground": "sand",
+                "resource": null,
+                "building": null
+            },
+            {
+                "ground": "water",
+                "resource": null,
+                "building": null
+            },
+            {
+                "ground": "water",
+                "resource": null,
+                "building": null
+            },
+            {
+                "ground": "sand",
+                "resource": null,
+                "building": null
+            },
+            {
+                "ground": "grass",
+                "resource": null,
+                "building": null
+            },
+            {
+                "ground": "grass",
+                "resource": null,
+                "building": null
+            },
+            {
+                "ground": "stone",
+                "resource": null,
+                "building": null
+            },
+            {
+                "ground": "grass",
+                "resource": null,
+                "building": null
+            },
+            {
+                "ground": "grass",
+                "resource": null,
+                "building": null
+            },
+            {
+                "ground": "grass",
+                "resource": null,
+                "building": null
+            },
+            {
+                "ground": "grass",
+                "resource": null,
+                "building": null
+            },
+            {
+                "ground": "grass",
+                "resource": null,
+                "building": null
+            },
+            {
+                "ground": "grass",
+                "resource": null,
+                "building": null
+            }
+        ],
+        [
+            {
+                "ground": "stone",
+                "resource": null,
+                "building": null
+            },
+            {
+                "ground": "grass",
+                "resource": null,
+                "building": null
+            },
+            {
+                "ground": "grass",
+                "resource": null,
+                "building": null
+            },
+            {
+                "ground": "grass",
+                "resource": null,
+                "building": null
+            },
+            {
+                "ground": "grass",
+                "resource": null,
+                "building": null
+            },
+            {
+                "ground": "grass",
+                "resource": null,
+                "building": null
+            },
+            {
+                "ground": "grass",
+                "resource": null,
+                "building": null
+            },
+            {
+                "ground": "grass",
+                "resource": null,
+                "building": null
+            },
+            {
+                "ground": "grass",
+                "resource": null,
+                "building": null
+            },
+            {
+                "ground": "grass",
+                "resource": null,
+                "building": null
+            },
+            {
+                "ground": "grass",
+                "resource": null,
+                "building": null
+            },
+            {
+                "ground": "grass",
+                "resource": null,
+                "building": null
+            },
+            {
+                "ground": "grass",
+                "resource": null,
+                "building": null
+            },
+            {
+                "ground": "stone",
+                "resource": null,
+                "building": null
+            },
+            {
+                "ground": "grass",
+                "resource": null,
+                "building": null
+            },
+            {
+                "ground": "grass",
+                "resource": null,
+                "building": null
+            },
+            {
+                "ground": "stone",
+                "resource": null,
+                "building": null
+            },
+            {
+                "ground": "sand",
+                "resource": null,
+                "building": null
+            },
+            {
+                "ground": "water",
+                "resource": null,
+                "building": null
+            },
+            {
+                "ground": "water",
+                "resource": null,
+                "building": null
+            },
+            {
+                "ground": "sand",
+                "resource": null,
+                "building": null
+            },
+            {
+                "ground": "grass",
+                "resource": null,
+                "building": null
+            },
+            {
+                "ground": "grass",
+                "resource": null,
+                "building": null
+            },
+            {
+                "ground": "grass",
+                "resource": null,
+                "building": null
+            },
+            {
+                "ground": "grass",
+                "resource": null,
+                "building": null
+            },
+            {
+                "ground": "grass",
+                "resource": null,
+                "building": null
+            },
+            {
+                "ground": "grass",
+                "resource": null,
+                "building": null
+            },
+            {
+                "ground": "grass",
+                "resource": null,
+                "building": null
+            },
+            {
+                "ground": "stone",
+                "resource": null,
+                "building": null
+            },
+            {
+                "ground": "grass",
+                "resource": null,
+                "building": null
+            }
+        ],
+        [
+            {
+                "ground": "grass",
+                "resource": null,
+                "building": null
+            },
+            {
+                "ground": "grass",
+                "resource": null,
+                "building": null
+            },
+            {
+                "ground": "grass",
+                "resource": null,
+                "building": null
+            },
+            {
+                "ground": "grass",
+                "resource": null,
+                "building": null
+            },
+            {
+                "ground": "grass",
+                "resource": null,
+                "building": null
+            },
+            {
+                "ground": "grass",
+                "resource": null,
+                "building": null
+            },
+            {
+                "ground": "grass",
+                "resource": null,
+                "building": null
+            },
+            {
+                "ground": "grass",
+                "resource": null,
+                "building": null
+            },
+            {
+                "ground": "grass",
+                "resource": null,
+                "building": null
+            },
+            {
+                "ground": "stone",
+                "resource": null,
+                "building": null
+            },
+            {
+                "ground": "grass",
+                "resource": null,
+                "building": null
+            },
+            {
+                "ground": "grass",
+                "resource": null,
+                "building": null
+            },
+            {
+                "ground": "grass",
+                "resource": null,
+                "building": null
+            },
+            {
+                "ground": "grass",
+                "resource": null,
+                "building": null
+            },
+            {
+                "ground": "grass",
+                "resource": null,
+                "building": null
+            },
+            {
+                "ground": "grass",
+                "resource": null,
+                "building": null
+            },
+            {
+                "ground": "grass",
+                "resource": null,
+                "building": null
+            },
+            {
+                "ground": "sand",
+                "resource": null,
+                "building": null
+            },
+            {
+                "ground": "sand",
+                "resource": null,
+                "building": null
+            },
+            {
+                "ground": "water",
+                "resource": null,
+                "building": null
+            },
+            {
+                "ground": "sand",
+                "resource": null,
+                "building": null
+            },
+            {
+                "ground": "sand",
+                "resource": null,
+                "building": null
+            },
+            {
+                "ground": "grass",
+                "resource": null,
+                "building": null
+            },
+            {
+                "ground": "stone",
+                "resource": null,
+                "building": null
+            },
+            {
+                "ground": "stone",
+                "resource": null,
+                "building": null
+            },
+            {
+                "ground": "grass",
+                "resource": null,
+                "building": null
+            },
+            {
+                "ground": "grass",
+                "resource": null,
+                "building": null
+            },
+            {
+                "ground": "stone",
+                "resource": null,
+                "building": null
+            },
+            {
+                "ground": "grass",
+                "resource": null,
+                "building": null
+            },
+            {
+                "ground": "grass",
+                "resource": null,
+                "building": null
+            }
+        ],
+        [
+            {
+                "ground": "stone",
+                "resource": null,
+                "building": null
+            },
+            {
+                "ground": "grass",
+                "resource": null,
+                "building": null
+            },
+            {
+                "ground": "grass",
+                "resource": null,
+                "building": null
+            },
+            {
+                "ground": "grass",
+                "resource": null,
+                "building": null
+            },
+            {
+                "ground": "grass",
+                "resource": null,
+                "building": null
+            },
+            {
+                "ground": "grass",
+                "resource": null,
+                "building": null
+            },
+            {
+                "ground": "grass",
+                "resource": null,
+                "building": null
+            },
+            {
+                "ground": "grass",
+                "resource": null,
+                "building": null
+            },
+            {
+                "ground": "grass",
+                "resource": null,
+                "building": null
+            },
+            {
+                "ground": "grass",
+                "resource": null,
+                "building": null
+            },
+            {
+                "ground": "grass",
+                "resource": null,
+                "building": null
+            },
+            {
+                "ground": "stone",
+                "resource": null,
+                "building": null
+            },
+            {
+                "ground": "stone",
+                "resource": null,
+                "building": null
+            },
+            {
+                "ground": "grass",
+                "resource": null,
+                "building": null
+            },
+            {
+                "ground": "grass",
+                "resource": null,
+                "building": null
+            },
+            {
+                "ground": "grass",
+                "resource": null,
+                "building": null
+            },
+            {
+                "ground": "grass",
+                "resource": null,
+                "building": null
+            },
+            {
+                "ground": "grass",
+                "resource": null,
+                "building": null
+            },
+            {
+                "ground": "sand",
+                "resource": null,
+                "building": null
+            },
+            {
+                "ground": "water",
+                "resource": null,
+                "building": null
+            },
+            {
+                "ground": "water",
+                "resource": null,
+                "building": null
+            },
+            {
+                "ground": "sand",
+                "resource": null,
+                "building": null
+            },
+            {
+                "ground": "sand",
+                "resource": null,
+                "building": null
+            },
+            {
+                "ground": "sand",
+                "resource": null,
+                "building": null
+            },
+            {
+                "ground": "grass",
+                "resource": null,
+                "building": null
+            },
+            {
+                "ground": "stone",
+                "resource": null,
+                "building": null
+            },
+            {
+                "ground": "grass",
+                "resource": null,
+                "building": null
+            },
+            {
+                "ground": "grass",
+                "resource": null,
+                "building": null
+            },
+            {
+                "ground": "grass",
+                "resource": null,
+                "building": null
+            },
+            {
+                "ground": "grass",
+                "resource": null,
+                "building": null
+            }
+        ],
+        [
+            {
+                "ground": "grass",
+                "resource": null,
+                "building": null
+            },
+            {
+                "ground": "grass",
+                "resource": null,
+                "building": null
+            },
+            {
+                "ground": "grass",
+                "resource": null,
+                "building": null
+            },
+            {
+                "ground": "grass",
+                "resource": null,
+                "building": null
+            },
+            {
+                "ground": "grass",
+                "resource": null,
+                "building": null
+            },
+            {
+                "ground": "grass",
+                "resource": null,
+                "building": null
+            },
+            {
+                "ground": "grass",
+                "resource": null,
+                "building": null
+            },
+            {
+                "ground": "grass",
+                "resource": null,
+                "building": null
+            },
+            {
+                "ground": "grass",
+                "resource": null,
+                "building": null
+            },
+            {
+                "ground": "grass",
+                "resource": null,
+                "building": null
+            },
+            {
+                "ground": "grass",
+                "resource": null,
+                "building": null
+            },
+            {
+                "ground": "grass",
+                "resource": null,
+                "building": null
+            },
+            {
+                "ground": "grass",
+                "resource": null,
+                "building": null
+            },
+            {
+                "ground": "grass",
+                "resource": null,
+                "building": null
+            },
+            {
+                "ground": "stone",
+                "resource": null,
+                "building": null
+            },
+            {
+                "ground": "grass",
+                "resource": null,
+                "building": null
+            },
+            {
+                "ground": "stone",
+                "resource": null,
+                "building": null
+            },
+            {
+                "ground": "grass",
+                "resource": null,
+                "building": null
+            },
+            {
+                "ground": "sand",
+                "resource": null,
+                "building": null
+            },
+            {
+                "ground": "water",
+                "resource": null,
+                "building": null
+            },
+            {
+                "ground": "water",
+                "resource": null,
+                "building": null
+            },
+            {
+                "ground": "water",
+                "resource": null,
+                "building": null
+            },
+            {
+                "ground": "water",
+                "resource": null,
+                "building": null
+            },
+            {
+                "ground": "sand",
+                "resource": null,
+                "building": null
+            },
+            {
+                "ground": "grass",
+                "resource": null,
+                "building": null
+            },
+            {
+                "ground": "grass",
+                "resource": null,
+                "building": null
+            },
+            {
+                "ground": "grass",
+                "resource": null,
+                "building": null
+            },
+            {
+                "ground": "grass",
+                "resource": null,
+                "building": null
+            },
+            {
+                "ground": "grass",
+                "resource": null,
+                "building": null
+            },
+            {
+                "ground": "grass",
+                "resource": null,
+                "building": null
+            }
+        ],
+        [
+            {
+                "ground": "grass",
+                "resource": null,
+                "building": null
+            },
+            {
+                "ground": "grass",
+                "resource": null,
+                "building": null
+            },
+            {
+                "ground": "grass",
+                "resource": null,
+                "building": null
+            },
+            {
+                "ground": "grass",
+                "resource": null,
+                "building": null
+            },
+            {
+                "ground": "grass",
+                "resource": null,
+                "building": null
+            },
+            {
+                "ground": "grass",
+                "resource": null,
+                "building": null
+            },
+            {
+                "ground": "stone",
+                "resource": null,
+                "building": null
+            },
+            {
+                "ground": "grass",
+                "resource": null,
+                "building": null
+            },
+            {
+                "ground": "grass",
+                "resource": null,
+                "building": null
+            },
+            {
+                "ground": "grass",
+                "resource": null,
+                "building": null
+            },
+            {
+                "ground": "grass",
+                "resource": null,
+                "building": null
+            },
+            {
+                "ground": "grass",
+                "resource": null,
+                "building": null
+            },
+            {
+                "ground": "grass",
+                "resource": null,
+                "building": null
+            },
+            {
+                "ground": "grass",
+                "resource": null,
+                "building": null
+            },
+            {
+                "ground": "stone",
+                "resource": null,
+                "building": null
+            },
+            {
+                "ground": "grass",
+                "resource": null,
+                "building": null
+            },
+            {
+                "ground": "grass",
+                "resource": null,
+                "building": null
+            },
+            {
+                "ground": "grass",
+                "resource": null,
+                "building": null
+            },
+            {
+                "ground": "sand",
+                "resource": null,
+                "building": null
+            },
+            {
+                "ground": "sand",
+                "resource": null,
+                "building": null
+            },
+            {
+                "ground": "water",
+                "resource": null,
+                "building": null
+            },
+            {
+                "ground": "water",
+                "resource": null,
+                "building": null
+            },
+            {
+                "ground": "water",
+                "resource": null,
+                "building": null
+            },
+            {
+                "ground": "sand",
+                "resource": null,
+                "building": null
+            },
+            {
+                "ground": "grass",
+                "resource": null,
+                "building": null
+            },
+            {
+                "ground": "grass",
+                "resource": null,
+                "building": null
+            },
+            {
+                "ground": "grass",
+                "resource": null,
+                "building": null
+            },
+            {
+                "ground": "grass",
+                "resource": null,
+                "building": null
+            },
+            {
+                "ground": "grass",
+                "resource": null,
+                "building": null
+            },
+            {
+                "ground": "stone",
+                "resource": null,
+                "building": null
+            }
+        ],
+        [
+            {
+                "ground": "grass",
+                "resource": null,
+                "building": null
+            },
+            {
+                "ground": "grass",
+                "resource": null,
+                "building": null
+            },
+            {
+                "ground": "grass",
+                "resource": null,
+                "building": null
+            },
+            {
+                "ground": "grass",
+                "resource": null,
+                "building": null
+            },
+            {
+                "ground": "grass",
+                "resource": null,
+                "building": null
+            },
+            {
+                "ground": "grass",
+                "resource": null,
+                "building": null
+            },
+            {
+                "ground": "grass",
+                "resource": null,
+                "building": null
+            },
+            {
+                "ground": "grass",
+                "resource": null,
+                "building": null
+            },
+            {
+                "ground": "grass",
+                "resource": null,
+                "building": null
+            },
+            {
+                "ground": "grass",
+                "resource": null,
+                "building": null
+            },
+            {
+                "ground": "grass",
+                "resource": null,
+                "building": null
+            },
+            {
+                "ground": "grass",
+                "resource": null,
+                "building": null
+            },
+            {
+                "ground": "grass",
+                "resource": null,
+                "building": null
+            },
+            {
+                "ground": "grass",
+                "resource": null,
+                "building": null
+            },
+            {
+                "ground": "grass",
+                "resource": null,
+                "building": null
+            },
+            {
+                "ground": "grass",
+                "resource": null,
+                "building": null
+            },
+            {
+                "ground": "grass",
+                "resource": null,
+                "building": null
+            },
+            {
+                "ground": "grass",
+                "resource": null,
+                "building": null
+            },
+            {
+                "ground": "grass",
+                "resource": null,
+                "building": null
+            },
+            {
+                "ground": "sand",
+                "resource": null,
+                "building": null
+            },
+            {
+                "ground": "water",
+                "resource": null,
+                "building": null
+            },
+            {
+                "ground": "water",
+                "resource": null,
+                "building": null
+            },
+            {
+                "ground": "water",
+                "resource": null,
+                "building": null
+            },
+            {
+                "ground": "sand",
+                "resource": null,
+                "building": null
+            },
+            {
+                "ground": "sand",
+                "resource": null,
+                "building": null
+            },
+            {
+                "ground": "sand",
+                "resource": null,
+                "building": null
+            },
+            {
+                "ground": "sand",
+                "resource": null,
+                "building": null
+            },
+            {
+                "ground": "sand",
+                "resource": null,
+                "building": null
+            },
+            {
+                "ground": "grass",
+                "resource": null,
+                "building": null
+            },
+            {
+                "ground": "grass",
+                "resource": null,
+                "building": null
+            }
+        ],
+        [
+            {
+                "ground": "grass",
+                "resource": null,
+                "building": null
+            },
+            {
+                "ground": "grass",
+                "resource": null,
+                "building": null
+            },
+            {
+                "ground": "grass",
+                "resource": null,
+                "building": null
+            },
+            {
+                "ground": "grass",
+                "resource": null,
+                "building": null
+            },
+            {
+                "ground": "grass",
+                "resource": null,
+                "building": null
+            },
+            {
+                "ground": "grass",
+                "resource": null,
+                "building": null
+            },
+            {
+                "ground": "grass",
+                "resource": null,
+                "building": null
+            },
+            {
+                "ground": "grass",
+                "resource": null,
+                "building": null
+            },
+            {
+                "ground": "grass",
+                "resource": null,
+                "building": null
+            },
+            {
+                "ground": "grass",
+                "resource": null,
+                "building": null
+            },
+            {
+                "ground": "grass",
+                "resource": null,
+                "building": null
+            },
+            {
+                "ground": "grass",
+                "resource": null,
+                "building": null
+            },
+            {
+                "ground": "grass",
+                "resource": null,
+                "building": null
+            },
+            {
+                "ground": "stone",
+                "resource": null,
+                "building": null
+            },
+            {
+                "ground": "stone",
+                "resource": null,
+                "building": null
+            },
+            {
+                "ground": "grass",
+                "resource": null,
+                "building": null
+            },
+            {
+                "ground": "grass",
+                "resource": null,
+                "building": null
+            },
+            {
+                "ground": "grass",
+                "resource": null,
+                "building": null
+            },
+            {
+                "ground": "sand",
+                "resource": null,
+                "building": null
+            },
+            {
+                "ground": "sand",
+                "resource": null,
+                "building": null
+            },
+            {
+                "ground": "water",
+                "resource": null,
+                "building": null
+            },
+            {
+                "ground": "water",
+                "resource": null,
+                "building": null
+            },
+            {
+                "ground": "water",
+                "resource": null,
+                "building": null
+            },
+            {
+                "ground": "water",
+                "resource": null,
+                "building": null
+            },
+            {
+                "ground": "water",
+                "resource": null,
+                "building": null
+            },
+            {
+                "ground": "sand",
+                "resource": null,
+                "building": null
+            },
+            {
+                "ground": "water",
+                "resource": null,
+                "building": null
+            },
+            {
+                "ground": "sand",
+                "resource": null,
+                "building": null
+            },
+            {
+                "ground": "sand",
+                "resource": null,
+                "building": null
+            },
+            {
+                "ground": "sand",
+                "resource": null,
+                "building": null
+            }
+        ],
+        [
+            {
+                "ground": "grass",
+                "resource": null,
+                "building": null
+            },
+            {
+                "ground": "grass",
+                "resource": null,
+                "building": null
+            },
+            {
+                "ground": "grass",
+                "resource": null,
+                "building": null
+            },
+            {
+                "ground": "grass",
+                "resource": null,
+                "building": null
+            },
+            {
+                "ground": "grass",
+                "resource": null,
+                "building": null
+            },
+            {
+                "ground": "grass",
+                "resource": null,
+                "building": null
+            },
+            {
+                "ground": "grass",
+                "resource": null,
+                "building": null
+            },
+            {
+                "ground": "grass",
+                "resource": null,
+                "building": null
+            },
+            {
+                "ground": "grass",
+                "resource": null,
+                "building": null
+            },
+            {
+                "ground": "grass",
+                "resource": null,
+                "building": null
+            },
+            {
+                "ground": "grass",
+                "resource": null,
+                "building": null
+            },
+            {
+                "ground": "grass",
+                "resource": null,
+                "building": null
+            },
+            {
+                "ground": "grass",
+                "resource": null,
+                "building": null
+            },
+            {
+                "ground": "grass",
+                "resource": null,
+                "building": null
+            },
+            {
+                "ground": "grass",
+                "resource": null,
+                "building": null
+            },
+            {
+                "ground": "grass",
+                "resource": null,
+                "building": null
+            },
+            {
+                "ground": "grass",
+                "resource": null,
+                "building": null
+            },
+            {
+                "ground": "sand",
+                "resource": null,
+                "building": null
+            },
+            {
+                "ground": "sand",
+                "resource": null,
+                "building": null
+            },
+            {
+                "ground": "water",
+                "resource": null,
+                "building": null
+            },
+            {
+                "ground": "water",
+                "resource": null,
+                "building": null
+            },
+            {
+                "ground": "water",
+                "resource": null,
+                "building": null
+            },
+            {
+                "ground": "water",
+                "resource": null,
+                "building": null
+            },
+            {
+                "ground": "water",
+                "resource": null,
+                "building": null
+            },
+            {
+                "ground": "water",
+                "resource": null,
+                "building": null
+            },
+            {
+                "ground": "water",
+                "resource": null,
+                "building": null
+            },
+            {
+                "ground": "water",
+                "resource": null,
+                "building": null
+            },
+            {
+                "ground": "water",
+                "resource": null,
+                "building": null
+            },
+            {
+                "ground": "sand",
+                "resource": null,
+                "building": null
+            },
+            {
+                "ground": "water",
+                "resource": null,
+                "building": null
+            }
+        ],
+        [
+            {
+                "ground": "grass",
+                "resource": null,
+                "building": null
+            },
+            {
+                "ground": "grass",
+                "resource": null,
+                "building": null
+            },
+            {
+                "ground": "grass",
+                "resource": null,
+                "building": null
+            },
+            {
+                "ground": "grass",
+                "resource": null,
+                "building": null
+            },
+            {
+                "ground": "grass",
+                "resource": null,
+                "building": null
+            },
+            {
+                "ground": "grass",
+                "resource": null,
+                "building": null
+            },
+            {
+                "ground": "grass",
+                "resource": null,
+                "building": null
+            },
+            {
+                "ground": "grass",
+                "resource": null,
+                "building": null
+            },
+            {
+                "ground": "grass",
+                "resource": null,
+                "building": null
+            },
+            {
+                "ground": "grass",
+                "resource": null,
+                "building": null
+            },
+            {
+                "ground": "grass",
+                "resource": null,
+                "building": null
+            },
+            {
+                "ground": "grass",
+                "resource": null,
+                "building": null
+            },
+            {
+                "ground": "stone",
+                "resource": null,
+                "building": null
+            },
+            {
+                "ground": "grass",
+                "resource": null,
+                "building": null
+            },
+            {
+                "ground": "grass",
+                "resource": null,
+                "building": null
+            },
+            {
+                "ground": "grass",
+                "resource": null,
+                "building": null
+            },
+            {
+                "ground": "grass",
+                "resource": null,
+                "building": null
+            },
+            {
+                "ground": "sand",
+                "resource": null,
+                "building": null
+            },
+            {
+                "ground": "water",
+                "resource": null,
+                "building": null
+            },
+            {
+                "ground": "water",
+                "resource": null,
+                "building": null
+            },
+            {
+                "ground": "water",
+                "resource": null,
+                "building": null
+            },
+            {
+                "ground": "water",
+                "resource": null,
+                "building": null
+            },
+            {
+                "ground": "water",
+                "resource": null,
+                "building": null
+            },
+            {
+                "ground": "water",
+                "resource": null,
+                "building": null
+            },
+            {
+                "ground": "water",
+                "resource": null,
+                "building": null
+            },
+            {
+                "ground": "water",
+                "resource": null,
+                "building": null
+            },
+            {
+                "ground": "water",
+                "resource": null,
+                "building": null
+            },
+            {
+                "ground": "water",
+                "resource": null,
+                "building": null
+            },
+            {
+                "ground": "water",
+                "resource": null,
+                "building": null
+            },
+            {
+                "ground": "water",
+                "resource": null,
+                "building": null
+            }
+        ]
+    ]
+}

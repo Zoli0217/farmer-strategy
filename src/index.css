@@ -27,3 +27,7 @@
 .sand{
   background: rgb(255, 255, 0);
 }
+
+.selectorButton{
+  font-size: 2rem;
+}
