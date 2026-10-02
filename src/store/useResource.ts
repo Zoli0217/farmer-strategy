@@ -6,6 +6,7 @@ type ResourceStoreType = {
     wood: number,
     stone: number,
     food: number,
+    people: number,
 
     spendGold: (amount: number) => void,
     receiveGold: (amount: number) => void,
@@ -21,6 +22,8 @@ export const useResourceStore = create<ResourceStoreType>((set) => ({
     wood: 0,
     stone: 0,
     food: 0,
+    people: 0,
+
     spendGold: (amount: number) => {
         if (amount > 0 && amount <= useResourceStore.getState().gold){
             set((state) => ({ gold: state.gold - amount }));
@@ -31,6 +34,7 @@ export const useResourceStore = create<ResourceStoreType>((set) => ({
 
     receiveGold: (amount: number) => set((state) => ({ gold: state.gold + amount })),
 
+    
     addResource: (type: ResourceType, amount: number) => set((state) => ({ [type]: state[type] + amount })),
     spendResource: (type: ResourceType, amount: number) => set((state) => ({ [type]: state[type] - amount })),
 }))
