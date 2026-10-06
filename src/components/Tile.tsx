@@ -1,6 +1,8 @@
 import React, { useState, type MouseEventHandler } from 'react'
 import type { BuildingType, TileType } from '../types/Map'
 import { useMapStore } from '../store/useMapStore'
+import { getBuildingsData } from '../types/Buildings'
+import { useResourceStore } from '../store/useResourceStore'
 type TilePropsType = {
   tile: TileType,
   rowIdx: number,
@@ -10,6 +12,7 @@ type TilePropsType = {
 const Tile = ({tile, colIdx, rowIdx}: TilePropsType) => {
 
   const selectedBuilding = useMapStore((state)=> state.selectedBuilding)
+  const buildABuilding = useResourceStore((state)=> state.buildABuilding)
 
   const buildingIcon = (building: BuildingType) => {
     let icon = "";
@@ -44,7 +47,13 @@ const Tile = ({tile, colIdx, rowIdx}: TilePropsType) => {
   }
 
   const build = () =>{
-    canBuild() ? setBuilding(selectedBuilding) : alert("Cannot build here!")
+    if(!canBuild() || selectedBuilding == null){ alert("Nem lehet építeni!"); return;}
+
+    const result = buildABuilding(getBuildingsData(selectedBuilding))
+    if(result) {setBuilding(selectedBuilding)}
+    else{
+      alert("Nincs elég nyersanyag!")
+    }
   }
 
   const hoverTile = (e: React.MouseEvent) => {

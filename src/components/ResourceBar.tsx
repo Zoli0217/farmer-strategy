@@ -1,5 +1,5 @@
 import React from 'react'
-import { useResourceStore } from '../store/useResource'
+import { useResourceStore } from '../store/useResourceStore'
 const ResourceBar = () => {
     const gold = useResourceStore((state) => state.gold)
     const wood = useResourceStore((state) => state.wood)

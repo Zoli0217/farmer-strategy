@@ -10,6 +10,13 @@ export type BuildingDataType = {
         food?: number,
         people?: number
     }
+    reward?: {
+        gold?: number,
+        wood?: number,
+        stone?: number,
+        food?: number,
+        people?: number
+    }
 }
 
 const house:BuildingDataType = {
@@ -20,6 +27,9 @@ const house:BuildingDataType = {
         wood: 5,
         stone: 2,
         food: 10
+    },
+    reward: {
+        people: 4
     }
 }
 
