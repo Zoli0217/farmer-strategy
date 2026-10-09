@@ -1,5 +1,5 @@
 import React, { useState, type MouseEventHandler } from 'react'
-import type { BuildingType, TileType } from '../types/Map'
+import type { BuildingType, ResourceType, TileType } from '../types/Map'
 import { useMapStore } from '../store/useMapStore'
 import { getBuildingsData } from '../types/Buildings'
 import { useResourceStore } from '../store/useResourceStore'
@@ -30,6 +30,23 @@ const Tile = ({tile, colIdx, rowIdx}: TilePropsType) => {
     }
     return icon; 
   }
+
+  const resourceIcon = (resource: ResourceType) => {
+    let icon = "";
+    switch (resource) {
+      case "wood":
+        icon = "🌲"; break;
+      case "stone":
+        icon = "🪨"; break;
+      case "food":
+        icon = "🌽"; break;
+      
+      default:
+        break;
+    }
+    return icon; 
+  }
+
 
   const [building, setBuilding] = useState<BuildingType | null>(null)
 
@@ -68,8 +85,10 @@ const Tile = ({tile, colIdx, rowIdx}: TilePropsType) => {
   }
 
   return (
-    <div onClick={build} onMouseEnter={hoverTile} onMouseLeave={(e)=>leaveTile(e)} className={tile.ground} title={`${rowIdx}, ${colIdx}`}>
+    <div onClick={build} onMouseEnter={hoverTile} onMouseLeave={(e)=>leaveTile(e)} className={"tile " + tile.ground} title={`${rowIdx}, ${colIdx}`}>
       {building && buildingIcon(building)}
+      <span className="tileBuilding">{building && buildingIcon(building)}</span>
+      <span className="tileResource">{tile.resource && resourceIcon(tile.resource)}</span>
     </div>  
   )
 }
