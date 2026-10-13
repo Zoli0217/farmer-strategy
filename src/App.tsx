@@ -1,22 +1,22 @@
-import React, { Suspense } from 'react'
-import ResourceBar from './components/ResourceBar'
-import GameArea from './components/GameArea'
 import { QueryClient, QueryClientProvider } from '@tanstack/react-query'
-import BuildingSelectorBar from './components/BuildingSelectorBar'
+import { BrowserRouter, Route, Routes } from 'react-router-dom'
+import RegistrationPage from './pages/RegistrationPage'
+import LoginPage from './pages/LoginPage'
+import IndexPage from './pages/IndexPage'
+
 
 export const queryClient = new QueryClient()
 
 const App = () => {
   return (
     <QueryClientProvider client={queryClient}>
-      <div>
-        <ResourceBar />
-
-        <Suspense fallback={<div>Loading...</div>}>
-          <GameArea/>
-        </Suspense>
-        <BuildingSelectorBar />
-      </div>
+      <BrowserRouter>
+        <Routes>
+          <Route path="/" element={<IndexPage />} />
+          <Route path="/login" element={<LoginPage />} />
+          <Route path="/register" element={<RegistrationPage />} />
+        </Routes>
+      </BrowserRouter>  
     </QueryClientProvider>
   )
 }

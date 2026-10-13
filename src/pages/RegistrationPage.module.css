@@ -1,0 +1,72 @@
+.registerForm {
+	box-sizing: border-box;
+	display: grid;
+	gap: 11px;
+	width: min(100% - 32px, 440px);
+	margin: 32px auto;
+	padding: 28px;
+	border: 1px solid #d9e4d6;
+	border-top: 4px solid #43834d;
+	border-radius: 10px;
+	background: linear-gradient(145deg, #fff 55%, #f5faf3);
+	box-shadow: 0 12px 32px rgb(35 65 35 / 10%);
+    font-family: 'Inter', sans-serif;
+}
+
+.registerForm label {
+	margin-top: 4px;
+	color: #263b2b;
+	font-size: 0.9rem;
+	font-weight: 600;
+}
+
+.registerForm input:not([type='submit']) {
+	box-sizing: border-box;
+	width: 100%;
+	padding: 10px 12px;
+	border: 1px solid #c8d5c6;
+	border-radius: 6px;
+	background: #fff;
+	color: #1f2b21;
+	font: inherit;
+	transition: border-color 160ms ease, box-shadow 160ms ease;
+}
+
+.registerForm input:not([type='submit']):focus {
+	border-color: #43834d;
+	outline: none;
+	box-shadow: 0 0 0 3px rgb(67 131 77 / 16%);
+}
+
+.registerForm p {
+	margin: 2px 0;
+}
+
+.registerForm input[type='submit'] {
+	margin-top: 8px;
+	padding: 12px 16px;
+	border: 0;
+	border-radius: 6px;
+	background: linear-gradient(110deg, #367844, #4b8a4b);
+	color: #fff;
+	cursor: pointer;
+	font: inherit;
+	font-weight: 600;
+	transition: box-shadow 160ms ease, transform 160ms ease;
+}
+
+.registerForm input[type='submit']:hover {
+	box-shadow: 0 5px 12px rgb(54 120 68 / 24%);
+	transform: translateY(-1px);
+}
+
+.registerForm input[type='submit']:focus-visible {
+	outline: 3px solid rgb(67 131 77 / 35%);
+	outline-offset: 2px;
+}
+
+@media (max-width: 480px) {
+	.registerForm {
+		padding: 22px;
+	}
+}

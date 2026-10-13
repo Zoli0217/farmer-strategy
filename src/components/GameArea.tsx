@@ -5,7 +5,6 @@ import { useQuery, useSuspenseQuery } from '@tanstack/react-query'
 import Tile from './Tile'
 
 const GameArea = () => {
-  // const gameMap = useMapStore((state) => state.map)
 
   const {data} = useSuspenseQuery(mapQueryOptions())
 
