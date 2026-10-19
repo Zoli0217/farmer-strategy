@@ -39,3 +39,13 @@ export async function loginUser(username: string, password: string): Promise<Log
         throw new Error("Login failed")
     }
 }
+
+export async function getMe(){
+    try{
+        const response = await scumbagAPI.get('/api/auth/me/');
+        const userData = response.data as {username: string, email: string, id: number};
+        return userData;
+    }catch (error){
+        throw new Error("No User Data Very sad")
+    }
+}
