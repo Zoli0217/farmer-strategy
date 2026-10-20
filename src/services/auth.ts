@@ -40,11 +40,20 @@ export async function loginUser(username: string, password: string): Promise<Log
     }
 }
 
+type UserData = {
+    user: {
+        id: number,
+        username: string
+    },
+    profile: {
+        id: number
+    }
+}
+
 export async function getMe(){
     try{
         const response = await scumbagAPI.get('/api/auth/me/');
-        const userData = response.data as {username: string, email: string, id: number};
-        return userData;
+        return response.data as UserData;
     }catch (error){
         throw new Error("No User Data Very sad")
     }
